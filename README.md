@@ -11,7 +11,6 @@
 - 👨‍💻 All of my projects are available at [https://mizannur.netlify.app/](https://mizannur.netlify.app/)
 
 - 💬 Ask me about **react**
-- 
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
