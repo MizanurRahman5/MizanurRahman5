@@ -72,8 +72,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=MizanurRahman5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MizanurRahman5&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
