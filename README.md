@@ -1,31 +1,69 @@
-![logo](https://github.com/MistyIslam5/MistyIslam5/blob/main/Untitled%20Photo.jpg)
-<h1 align="center">Hi 👋, I'm Mizanur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mistyislam5&label=Profile%20views&color=0e75b6&style=flat" alt="mistyislam5" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mizanur162003" target="blank"><img src="https://img.shields.io/twitter/follow/mizanur162003?logo=twitter&style=for-the-badge" alt="mizanur162003" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://mizannur.netlify.app/](https://mizannur.netlify.app/)
-
-- 💬 Ask me about **react**
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mistyislam5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mistyislam5" height="30" width="40" /></a>
-<a href="https://twitter.com/mizanur162003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizanur162003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nizanur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nizanur rahman" height="30" width="40" /></a>
-<a href="https://fb.com/mizanur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mizanur rahman" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/MistyIslam5/MistyIslam5/blob/main/Untitled%20Photo.jpg" alt="Banner Image" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Misti 👋</h1>
+<h3 align="center">Frontend Developer | MERN Stack Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MizanurRahman5&show_icons=true&locale=en&layout=compact" alt="MizanurRahman5" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MizanurRahman5&show_icons=true&locale=en" alt="MizanurRahman5" /></p>
+- 🎯 Passionate about web development and always eager to learn new technologies.  
+- 💻 Experienced in building scalable web applications using React.js and the MERN stack.  
+- 🌱 Currently learning **Next.js** to enhance my frontend skills.  
+- 🔥 Aspiring to become a senior developer and make meaningful contributions to the tech world.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman5&" alt="MizanurRahman5" /></p>
+## 🔭 Current Activities
+
+- 🔹 Working on **Blood Donation Application** (MERN Stack).  
+- 🔹 Exploring **Next.js** for performance optimization.  
+- 🔹 Improving UI/UX skills with **Tailwind CSS & Shadcn UI**.  
+
+## 🛠 Skills
+
+### ⚡ Frontend  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+### 🔧 Backend & Database  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+## 🌐 Connect With Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizanurRahman5)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://m-rahman-porfolio.netlify.app/)
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman5&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MizanurRahman5&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizanurRahman5&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
