@@ -1,26 +1,29 @@
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/MistyIslam5/MistyIslam5/blob/main/Untitled%20Photo.jpg" alt="Banner Image" />
 </p>
 
-<h1 align="center">Hi, I'm Mizanur Rahman 👋</h1>
+<h1 align="center">👋 Hi, I'm Mizanur Rahman</h1>
 <h3 align="center">Frontend Developer | MERN Stack Developer</h3>
 
-## 🚀 About Me
+---
 
-- 🎯 Passionate about web development and always eager to learn new technologies.  
-- 💻 Experienced in building scalable web applications using React.js and the MERN stack.  
+## 🚀 About Me  
+- 🎯 Passionate about **web development** and always eager to learn new technologies.  
+- 💻 Experienced in building **scalable web applications** using **React.js** and the **MERN stack**.  
 - 🌱 Currently learning **Next.js** to enhance my frontend skills.  
-- 🔥 Aspiring to become a senior developer and make meaningful contributions to the tech world.
+- 🔥 Aspiring to become a **senior developer** and make meaningful contributions to the tech world.  
 
-## 🔭 Current Activities
+---
 
-- 🔹 Working on **Blood Donation Application** (MERN Stack).  
-- 🔹 Exploring **Next.js** for performance optimization.  
-- 🔹 Improving UI/UX skills with **Tailwind CSS & Shadcn UI**.  
+## 🔭 Current Activities  
+🔹 Working on **Blood Donation Application** (MERN Stack).  
+🔹 Exploring **Next.js** for performance optimization.  
+🔹 Improving UI/UX skills with **Tailwind CSS & Shadcn UI**.  
 
-## 🛠 Skills
+---
+
+## 🛠 Skills  
 
 ### ⚡ Frontend  
 <p>
@@ -47,20 +50,28 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+---
+
 ## 🌐 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizanurRahman5)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://m-rahman-porfolio.netlify.app/)
+<p align="center">
+  <a href="https://github.com/MizanurRahman5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://m-rahman-porfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Stats  
 
-
-
-<p align="center" href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=MizanurRahman5" alt="GitHub Streak" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MizanurRahman5&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MizanurRahman5&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -69,5 +80,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizanurRahman5&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
