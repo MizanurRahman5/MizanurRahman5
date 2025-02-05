@@ -54,9 +54,7 @@
 
 ## 📊 GitHub Stats  
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=MizanurRahman5" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MizanurRahman5)](https://git.io/streak-stats)
 
 
 <p align="center">
