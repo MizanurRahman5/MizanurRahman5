@@ -56,9 +56,9 @@
 
 
 
-<a align="center" href="https://git.io/streak-stats">
+<p align="center" href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=MizanurRahman5" alt="GitHub Streak" />
-</a>
+</p>
 
 
 
