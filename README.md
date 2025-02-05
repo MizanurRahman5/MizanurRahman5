@@ -55,7 +55,7 @@
 ## 📊 GitHub Stats  
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MizanurRahman5" alt="GitHub Streak" />
 </a>
 
 
