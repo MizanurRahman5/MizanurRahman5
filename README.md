@@ -54,9 +54,10 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman5&theme=tokyonight" alt="Streak Stats" />
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
+</a>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MizanurRahman5&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
