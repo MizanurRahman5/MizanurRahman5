@@ -4,7 +4,7 @@
   <img src="https://github.com/MistyIslam5/MistyIslam5/blob/main/Untitled%20Photo.jpg" alt="Banner Image" />
 </p>
 
-<h1 align="center">Hi, I'm Misti 👋</h1>
+<h1 align="center">Hi, I'm Mizanur Rahman 👋</h1>
 <h3 align="center">Frontend Developer | MERN Stack Developer</h3>
 
 ## 🚀 About Me
