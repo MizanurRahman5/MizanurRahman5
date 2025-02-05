@@ -56,6 +56,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MizanurRahman5)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=MizanurRahman5" alt="GitHub Streak" />
+</a>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MizanurRahman5&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
